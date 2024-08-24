@@ -62,8 +62,8 @@
 
 ## 🚀 Projects
 
-- [Personal Finance Management App](https://github.com/sutaaa0/finance-app) - A Flutter app to manage personal finances.
-- [Express & Prisma API](https://github.com/sutaaa0/express-prisma-api) - A backend API built with Express.js and Prisma, using PostgreSQL.
+- [Personal Finance Management App](https://github.com/sutaaa0/expense-tracker) - A Flutter app to manage personal finances.
+- [Express & Prisma API](https://github.com/sutaaa0/expense-tracker-api) - A backend API built with Express.js and Prisma, using PostgreSQL.
 
 ---
 
