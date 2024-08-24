@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/github/followers/sutaaa0?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
   <a href="https://twitter.com/sutaa_28">
-    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?label=Twitter&style=social" alt="Twitter"/>
+    <img src="https://img.shields.io/twitter/follow/sutaa_28?label=Twitter&style=social" alt="Twitter"/>
   </a>
   <a href="mailto:sutadev0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
@@ -24,10 +24,10 @@
 ## About Me
 
 - 💻 Fullstack Developer with a passion for building web and mobile applications.
-- 🌱 Currently working on **Flutter** and **Express.js** projects.
+- 🌱 Currently working on **Flutter**, **React**, **Next.js**, and **Express.js** projects.
 - 👨‍🎓 12th-grade student majoring in Software Engineering.
 - 💼 Interning at a software development company.
-- 🎯 Goal-oriented with a strong focus on web and mobile development, English proficiency, and personal growth.
+- 🎯 Goal-oriented with a strong focus on web and mobile development.
 
 ---
 
@@ -35,6 +35,9 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=React&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=Express&logoColor=white)
@@ -71,5 +74,5 @@
 
 ## 📫 How to reach me
 
-- Twitter: sutaa_28(https://twitter.com/sutaa_28)
-- Email: sutadev0@gmail.com(mailto:sutadev0@gmail.com)
+- Twitter: [sutaa_28](https://twitter.com/sutaa_28)
+- Email: [sutadev0@gmail.com](mailto:sutadev0@gmail.com)
