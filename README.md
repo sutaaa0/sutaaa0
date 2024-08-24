@@ -50,9 +50,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sutaaa0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="sutaaa0's GitHub Stats"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutaaa0&theme=tokyonight&hide_border=false" alt="sutaaa0's GitHub Streak"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutaaa0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="sutaaa0's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sutaaa0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="sutaaa0's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutaaa0&theme=tokyonight&hide_border=false" alt="sutaaa0's GitHub Streak" width="48%"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sutaaa0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="sutaaa0's Top Languages" width="48%"/>
 </div>
 
 ---
