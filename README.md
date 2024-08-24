@@ -74,12 +74,7 @@
 
 ---
 
-<details>
-  <summary><h2> <img align="center" src="https://github.com/sutaaa0/sutaaa0/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:sutadev0@gmail.com">
-      <img align="center" src="https://github.com/sutaaa0/sutaaa0/blob/main/icons/Gmail.gif" width="100"/>
-    </a>
-  </p>
-</details>
+## 📫 How to reach me
+
+- Twitter: [sutaa_28](https://twitter.com/sutaa_28)
+- Email: [sutadev0@gmail.com](mailto:sutadev0@gmail.com)
