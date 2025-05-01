@@ -24,9 +24,7 @@
 ## About Me
 
 - 💻 Fullstack Developer with a passion for building web and mobile applications.
-- 🌱 Currently working on **Flutter**, **React**, **Next.js**, and **Express.js** projects.
 - 👨‍🎓 12th-grade student majoring in Software Engineering.
-- 💼 Interning at a software development company.
 - 🎯 Goal-oriented with a strong focus on web and mobile development.
 
 ---
